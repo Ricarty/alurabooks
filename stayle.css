@@ -1,0 +1,31 @@
+@import url("/styles/header.css");
+@import url("/styles/baner.css");
+@import url("/styles/carrocel.css");
+@import url("/styles/topicos.css");
+@import url("/styles/contato.css");
+@import url("/styles/footer.css");
+@import url('https://fonts.googleapis.com/css2?family=Akronim&family=Inter:wght@400;700&family=Krona+One&family=Montserrat:wght@600&family=Poppins:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akronim&family=Inter:wght@400;700&family=Josefin+Sans:wght@400;700&family=Krona+One&family=Montserrat:wght@600&family=Poppins:wght@300;400;500;700&display=swap');
+
+:root{
+    --cor-principal: #EBECEE;
+    --branco: #ffffff;
+    --azul:  #002F52;
+    --laranja: #EB9B00;
+    --font-principal: "Poppins";
+    --black: #000;
+    --font-secundario: "Josefin Sans";
+    --cinza: #474646;
+    --cinza-segundo:#858585;
+ }
+
+body{
+    background-color: var(--cor-principal);
+    font-family: var(--font-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+
+
